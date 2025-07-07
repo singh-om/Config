@@ -1,2 +1,4 @@
 custom:
   greeting: Hello from Config Server!
+  ip: 8012
+  port: 1231
